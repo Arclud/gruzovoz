@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Gruzovoz</string>
+    <string name="title_orders">Все заказы</string>
+    <string name="title_history">История</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="log_out">Выйти</string>
+    <string name="title_activity_history">HistoryActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+
+    <string name="thanks_1_textView">Спасибо за принятый заказ</string>
+    <string name="thanks_2_textView">Свяжитесь с заказчиком</string>
+    <string name="call_button">Позвонить</string>
+    <string name="all_orders_button">Все заказы</string>
+    <string name="title_detail">Детали заказа</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_call">CallActivity</string>
+    <string name="no_orders_available">Нет доступных заказов</string>
+    <string name="orders_unavailable">Невозможно получить список заказов</string>
+    <string name="hint_phone">Телефон</string>
+    <string name="hint_password">Пароль</string>
+    <string name="login_text">ВОЙТИ</string>
+    <string name="date_today">Сегодня</string>
+    <string name="date_tomorrow">Завтра</string>
+    <string name="date_now">Срочно</string>
+    <string name="button_call">Позвонить</string>
+    <string name="button_finish">Завершить</string>
+    <string name="button_accept">Принять</string>
+    <string name="acceptOrder_dialog">Вы уверены, что хотите принять этот заказ?</string>
+    <string name="acceptOrder_title">Принять заказ</string>
+    <string name="cancel_order">Отменить</string>
+    <string name="call_unavailable">Невозможно позвонить, пожалуйста свяжитесь с диспетчером</string>
+    <string name="logout_title">Выйти из аккаунта</string>
+    <string name="logout_message">Вы уверены, что хотите выйти из аккаунта?</string>
+    <string name="action_logout">Выйти</string>
+    <string name="shr_error_password">Неверный номер телефона или пароль, попробуйте снова</string>
+    <string name="enter_phone_number">Введите номер телефона</string>
+    <string name="enter_password">Введите пароль</string>
+    <string name="number">+996</string>
+    <string name="no_internet">Отсутствует интернет-соединение</string>
+    <string name="update_orders">Попробуйте обновить страницу</string>
+    <string name="no_active_orders">Нет активных заказов</string>
+    <string name="no_completed_orders">Нет завершенных заказов</string>
+    <string name="active_orders_unavailable">Невозможно получить список активных заказов</string>
+    <string name="completed_orders_unavailable">Невозможно получить список завершенных заказов</string>
+    <string name="finish_order_title">Завершить заказ</string>
+    <string name="confirm_finish_order">Вы уверены, что хотите завершить этот заказ?</string>
+    <string name="finish">Завершить</string>
+</resources>
